@@ -22,7 +22,7 @@
 
     5. 完成后如下图所示，之后直接开始游戏即可
 
-    ![mod配置后文件示意](images/4fin_game_dir.png)
+    ![mod配置完成总文件预览](images/4fin_game_dir.png)
 
 2. mod内容
 
@@ -40,7 +40,7 @@
 
     **将光标放在地图中的点上可以查看该点名称**
 
-    ![地图及职业统计示意](images/5mapNcareer.png)
+    ![地图及职业统计](images/5mapNcareer.png)
 
     4. 左下角显示：
         - 当前的游戏时间
@@ -48,7 +48,7 @@
         - 当前钱袋中与国库中的金币数量
         - 当前季节以及当前处于该季节的第多少天(一个季节16天，蓝月为第16天)
 
-    ![左下角信息栏示意](images/6info.png)
+    ![左下角信息栏](images/6info.png)
 
     5. mod设置界面:
         - 可以更改地图中元素的可视状态
@@ -57,3 +57,9 @@
     ![mod设置界面](images/7setting.png)
 
     6. **此外，mod还修复了弓箭手莫名其妙卡在墙中的bug**
+
+    7. 添加了农作物生长进度条和怪物血条
+    
+    ![农作物生长进度条](<images/8crop.png>)
+
+    ![怪物血条](<images/9lifebar.png>)
