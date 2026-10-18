@@ -1,26 +1,28 @@
 **配置完成后首次进入游戏可能花费较长时间，请耐心等待**<br>
 **Ciallo～ (∠・ω< )⌒★**<br>
-**缩放建议4×，观感最佳**
+**缩放建议4×，观感最佳**<br>
+**下图中右上角的commits可以查看更新日志=￣ω￣=**<br>
+![更新日志位置](images/0Changelog.png)
 
 1. 安装配置教程
 
     1. 点开绿色按钮，点击菜单下面的Download ZIP下载这个项目的压缩包
 
-    ![图1 - 项目下载](images/1prjct_dld.png)
+    ![项目下载](images/1prjct_dld.png)
 
     2. 通过下图所示方式可打开游戏本地文件
 
-    ![图2 - 打开本地文件](images/2open_dir.png)
+    ![打开本地文件](images/2open_dir.png)
 
     3. 打开后正常原生游戏文件如下图所示
 
-    ![图3 - 游戏原生文件](images/3init_game_dir.png)
+    ![游戏原生文件](images/3init_game_dir.png)
 
     4. 将下载后的压缩包解压，将BetterKingdom文件夹中的内容全部复制到上面的游戏文件夹中
 
     5. 完成后如下图所示，之后直接开始游戏即可
 
-    ![图4 - mod配置后文件示意](images/4fin_game_dir.png)
+    ![mod配置后文件示意](images/4fin_game_dir.png)
 
 2. mod内容
 
@@ -38,7 +40,7 @@
 
     **将光标放在地图中的点上可以查看该点名称**
 
-    ![图5 - 地图及职业统计示意](images/5mapNcareer.png)
+    ![地图及职业统计示意](images/5mapNcareer.png)
 
     4. 左下角显示：
         - 当前的游戏时间
@@ -46,10 +48,12 @@
         - 当前钱袋中与国库中的金币数量
         - 当前季节以及当前处于该季节的第多少天(一个季节16天，蓝月为第16天)
 
-    ![图6 - 左下角信息栏示意](images/6info.png)
+    ![左下角信息栏示意](images/6info.png)
 
-    5. MOD设置界面:
+    5. mod设置界面:
         - 可以更改地图中元素的可视状态
         - 可以更改快捷键/键位
 
-    ![图5 - MOD设置界面](images/7setting.png)
+    ![mod设置界面](images/7setting.png)
+
+    6. **此外，mod还修复了弓箭手莫名其妙卡在墙中的bug**
