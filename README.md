@@ -63,4 +63,6 @@ mod内容
 
 ![mod设置界面](images/6setting.png)
 
-3. **此外，mod还修复了弓箭手莫名其妙卡在墙中的bug**
+3. 此外，mod还修复了弓箭手莫名其妙卡在墙中的bug
+
+**有关季节日的bug修复由衷感谢@初柔雪(bilibili)的帮助**
